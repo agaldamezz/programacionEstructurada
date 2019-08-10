@@ -1,0 +1,7 @@
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\obj\Debug\Practica_Num2.csprojAssemblyReference.cache
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\obj\Debug\Practica_Num2.csproj.CoreCompileInputs.cache
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\bin\Debug\Practica_Num2.exe.config
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\bin\Debug\Practica_Num2.exe
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\bin\Debug\Practica_Num2.pdb
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\obj\Debug\Practica_Num2.exe
+C:\Users\Galdamez\Documents\Programación Estructurada\Periodo I\Practica_Num2\Practica_Num2\obj\Debug\Practica_Num2.pdb
